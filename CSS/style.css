@@ -1,0 +1,35 @@
+body{
+    background: rgb(166, 164, 217);
+    margin-left: 100px;
+    margin-right: 200px;
+}
+h1{
+    color: red;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 10rem;
+    margin-top: 70px;
+}
+h2{
+    color: rgb(220, 86, 86);
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 2rem;
+    margin-top: 100px;
+}
+p{
+    font-style: italic;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+.img1, .img2, .img4{
+    margin-left: 100px;
+}
+.img3{
+    margin-left: 10px;
+}
+footer{
+    margin-top: 50px;
+    text-align: right;
+    color: blue;
+}
